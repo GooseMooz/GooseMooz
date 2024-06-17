@@ -8,7 +8,7 @@ I started coding in 2018. The idea of creating anything sparked an endless desir
 
 * 🌍  I'm based in Vancouver, BC
 * ✉️  You can contact me at [goosev.goose@gmail.com](mailto:goosev.goose@gmail.com)
-* 🚀  I'm currently working on [EmptyCases plugin](http://github.com/GooseMooz/EmptyCases)
+* 🚀  I'm currently working on UNITY STUFF WHICH IS NOT DISPLAYING HERE
 * 🧠  I'm learning Software Systems at SFU
 
 ### Skills
