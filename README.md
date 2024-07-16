@@ -1,7 +1,7 @@
 Hi! ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JwZTBtMm9ya3dmZHlqaXltb3hqMW1hZnB2bmh3b2R0ZmdiYTlzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XyB1qTnZQqN9eNLAdZ/giphy.gif)I'm Timofey
 ===============================================================================================================================
 
-Junior Software Developer
+Software Developer
 ------------------------
 
 I started coding in 2018. The idea of creating anything I want sparked an endless desire to learn and create more. I've tried myself in many different directions and still exploring this infinite world of possibilities.
