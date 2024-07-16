@@ -8,7 +8,7 @@ I started coding in 2018. The idea of creating anything I want sparked an endles
 
 * 🌍  I'm based in Vancouver, BC
 * ✉️  You can contact me at [tza98@sfu.ca](mailto:tza98@sfu.ca)
-* 🚀  I'm currently working on UNITY STUFF WHICH IS NOT DISPLAYING HERE SINCE APRIL. I'LL POST IT HERE EVENTUALLY WITH ALL TEXTURES AND MODELS FOR FREE.
+* 🚀  I'm currently working on C++ Blockchain Implementation
 * 🧠  I'm learning Software Systems at SFU
 
 ### Skills
@@ -75,4 +75,13 @@ I started coding in 2018. The idea of creating anything I want sparked an endles
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/goosemooz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture>  <a href="https://www.github.com/GooseMooz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>  <a href="https://www.linkedin.com/in/GooseMooz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<div align="left">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@goosemooz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
