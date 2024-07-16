@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Timofey
+Hi ![](https://lottie.host/a7ade75b-967a-4670-8c49-1d0f2d11060b/60rleHlxjk.json) I'm Timofey
 ===============================================================================================================================
 
 Junior Software Developer
