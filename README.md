@@ -1,4 +1,4 @@
-Hi ![](https://lottie.host/a7ade75b-967a-4670-8c49-1d0f2d11060b/60rleHlxjk.json) I'm Timofey
+Hi ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BuNjRvemlxYWM5cmJpb2NzZHd1NXZ1dTJraDdrZWN2c2FwYmtldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pYqHBVyjxO5PuKtBi4/giphy.gif) I'm Timofey
 ===============================================================================================================================
 
 Junior Software Developer
