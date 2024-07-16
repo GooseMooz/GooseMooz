@@ -1,4 +1,4 @@
-Hi ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JwZTBtMm9ya3dmZHlqaXltb3hqMW1hZnB2bmh3b2R0ZmdiYTlzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XyB1qTnZQqN9eNLAdZ/giphy.gif) I'm Timofey
+Hi! ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JwZTBtMm9ya3dmZHlqaXltb3hqMW1hZnB2bmh3b2R0ZmdiYTlzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XyB1qTnZQqN9eNLAdZ/giphy.gif)I'm Timofey
 ===============================================================================================================================
 
 Junior Software Developer
