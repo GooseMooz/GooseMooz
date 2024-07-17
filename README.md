@@ -8,7 +8,7 @@ I started coding in 2018. The idea of creating anything I want sparked an endles
 
 * 🌍  I'm based in Vancouver, BC
 * ✉️  You can contact me at [tza98@sfu.ca](mailto:tza98@sfu.ca)
-* 🚀  I'm currently working on C++ Blockchain Implementation
+* 🚀  I'm currently working on C++ Blockchain Implementation and Unity Stuff that doesn't show up here :P
 * 🧠  I'm learning Software Systems at SFU
 
 ### Skills
