@@ -78,7 +78,7 @@ I started coding in 2018. The idea of creating anything I want sparked an endles
 ### Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/goosemooz">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@goosemooz">
