@@ -87,3 +87,7 @@ I started coding in 2018. The idea of creating anything I want sparked an endles
 </div>
 
 ###
+
+### Stats
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=goosemooz&api_domain=wakapi.dev&layout=compact)
